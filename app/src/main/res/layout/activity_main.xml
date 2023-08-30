@@ -282,7 +282,7 @@
         android:gravity="center"
       />
     <TextView
-        android:id="@+id/tV."
+        android:id="@+id/tVDot"
         android:layout_width="36dp"
         android:layout_height="36dp"
         android:layout_margin="1dp"
